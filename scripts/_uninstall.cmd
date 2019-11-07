@@ -1,0 +1,3 @@
+SudachiServiceLauncher delete SudachiServiceLauncher
+
+pause
